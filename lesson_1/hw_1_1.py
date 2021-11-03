@@ -1,4 +1,4 @@
-a = input("Vvedite cislo ")
+a = int(input("Vvedite cislo "))
 b = True
 c = "asdasd"
 d = 1.0
