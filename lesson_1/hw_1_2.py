@@ -1,7 +1,7 @@
-a = input ("Vvedite kolichestvo sekund ")
+a = input("Vvedite kolichestvo sekund ")
 a = int(a)
 b = a % 60
 c = a // 3600
 d = a // 60 - c * 60
 vremya = f"{c:02}:{d:02}:{b:02}"
-print (vremya)
+print(vremya)
